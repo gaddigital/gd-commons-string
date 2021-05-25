@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.gaddigital</groupId>
+    <artifactId>string-utils</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>GD String utils</name>
+    <description></description>
+    <url>https://maven.util.gaddigital.io/</url>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Ricken BAZOLO</name>
+            <email>r.bazolo@gaddigital.io</email>
+            <organization>GadDigital</organization>
+            <organizationUrl>https://www.gaddigital.io</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/gaddigital/gd-commons-string.git</connection>
+        <developerConnection>scm:git:ssh://github.com/gaddigital/gd-commons-string.git</developerConnection>
+        <url>http://github.com/gaddigital/gd-commons-string/tree/master</url>
+    </scm>
+
+</project>
